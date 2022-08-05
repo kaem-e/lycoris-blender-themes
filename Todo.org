@@ -1,9 +1,0 @@
-$USERPROFILE
-$HOME
-
-#windows location
-C:\Users\Madoka\AppData\Roaming\Blender Foundation
-stow Blender -t $HOME/AppData/Roaming/Blender\ Foundation/Blender/3.2/scripts/presets/interface_theme/
-
-#MacOS Location
-
