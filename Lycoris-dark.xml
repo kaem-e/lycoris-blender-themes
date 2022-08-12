@@ -384,8 +384,8 @@
         face_dot="#f9aa06"
         facedot_size="3"
         freestyle_face_mark="#92f9924d"
-        face_back="#f90606b3"
-        face_front="#0606f9b3"
+        face_back="#e08c60b3"
+        face_front="#d50f38b3"
         nurb_uline="#979706"
         nurb_vline="#863665"
         nurb_sel_uline="#f9f94d"
@@ -446,7 +446,7 @@
               <ThemeGradientColors
                 background_type="LINEAR"
                 high_gradient="#1f1f1f"
-                gradient="#0e0e0e"
+                gradient="#181818"
                 >
               </ThemeGradientColors>
             </gradients>
