@@ -1,6 +1,6 @@
 # Lycoris Blender Theme
 
-![Lycoris Dark Theme](./Assets/4k\ blender\ screenshot.png)
+![Lycoris Dark Theme](./Assets/sc.png)
 
 ## Installation
 
