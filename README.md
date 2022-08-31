@@ -1,5 +1,7 @@
 # Lycoris Blender Theme
 
+![Lycoris Dark Theme](./Assets/4k\ blender\ screenshot.png)
+
 ## Installation
 
 The theme can be installed by either downloading and unzipping from github and importing into blender or by using the scripts provided in the tools folder, The advantage of installing through the scripts is that you can easily update the theme by running a simple `git pull` command in the parent directory
