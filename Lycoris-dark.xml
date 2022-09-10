@@ -319,15 +319,15 @@
         <wcol_state>
           <ThemeWidgetStateColors
             inner_anim="#59a134"
-            inner_anim_sel="#3cb006"
+            inner_anim_sel="#458aca"
             inner_key="#beb63d"
-            inner_key_sel="#bca106"
+            inner_key_sel="#857cff"
             inner_driven="#9a06d9"
             inner_driven_sel="#a506f4"
             inner_overridden="#06cece"
             inner_overridden_sel="#139797"
             inner_changed="#d97f31"
-            inner_changed_sel="#df6b06"
+            inner_changed_sel="#ff537b"
             blend="0.5"
             >
           </ThemeWidgetStateColors>
@@ -660,7 +660,7 @@
         long_key="#1b1b1b80"
         long_key_selected="#f99806cc"
         keyframe="#f7f7f7"
-        keyframe_selected="#f9cc3e"
+        keyframe_selected="#ffa352"
         keyframe_extreme="#f7f7f7"
         keyframe_extreme_selected="#f99393"
         keyframe_breakdown="#f7f7f7"
