@@ -10,7 +10,7 @@ The theme can be installed by either downloading and unzipping from github and i
 
 1. Clone or download the repository somehwere (Click the green "Code" button on this github page > Click "Download Zip" and then extract to someplace safe)
 2. Open Blender, go to Edit > Preferences > Themes
-3. Press the "+" Icon, navigate to where you downloaded the repo, Select "Lycrois-(dark).xml" and press open
+3. Press the "+" Icon, navigate to where you downloaded the repo, Select "Lycrois-dark.xml" and press open
 
 #### Installation Via Scripts:
 
