@@ -901,24 +901,24 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#dddddd"
-        line_numbers_background="#1b1b1b"
-        selected_text="#5e56c8"
-        cursor="#f90606"
-        syntax_builtin="#f9216a"
-        syntax_symbols="#f9815b"
-        syntax_special="#9fe406"
-        syntax_preprocessor="#be92f9"
+        line_numbers="#41505e"
+        line_numbers_background="#181e24"
+        selected_text="#253039"
+        cursor="#5e8ab6"
+        syntax_builtin="#5ed1af"
+        syntax_symbols="#fbe14a"
+        syntax_special="#b62d65"
+        syntax_preprocessor="#6d8ca6"
         syntax_reserved="#cf8044"
-        syntax_comment="#9b9b9b"
-        syntax_string="#f9f072"
-        syntax_numbers="#5de9f9"
+        syntax_comment="#374754"
+        syntax_string="#68a1f0"
+        syntax_numbers="#df7d8c"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#1b1b1b"
+            back="#1d252c"
             title="#f9f9f9"
-            text="#f4f4f4"
+            text="#b2bfcd"
             text_hi="#f9f9f9"
             header="#2d2d2d89"
             header_text="#f9f9f9"
@@ -932,7 +932,7 @@
             tab_active="#2d2d2d"
             tab_inactive="#2d2d2d"
             tab_back="#1b1b1bff"
-            tab_outline="#1b1b1b"
+            tab_outline="#26313a"
             >
             <panelcolors>
               <ThemePanelColors
