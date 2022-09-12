@@ -366,7 +366,7 @@
         empty="#000000"
         light="#0606061f"
         speaker="#000000"
-        vertex="#5dbba0"
+        vertex="#7f7f7f"
         vertex_select="#b5abf9"
         vertex_active="#000000"
         vertex_size="3"
@@ -428,7 +428,7 @@
             title="#f9f9f9"
             text="#f4f4f4"
             text_hi="#f9f9f9"
-            header="#2d2d2d34"
+            header="#2d2d2d39"
             header_text="#f9f9f9"
             header_text_hi="#f9f9f9"
             button="#09090900"
@@ -1031,11 +1031,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#282828"
+            back="#1f1f1f"
             title="#f9f9f9"
             text="#cecece"
             text_hi="#f9f9f9"
-            header="#373737ff"
+            header="#202020ff"
             header_text="#f9f9f9"
             header_text_hi="#f9f9f9"
             button="#373737ff"
