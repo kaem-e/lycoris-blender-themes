@@ -1,5 +1,8 @@
 # Lycoris Blender Theme
 
+> [!IMPORTANT]
+> This theme is currently unmaintained. As a result, there is a high likelihood that some UI elements may be broken in Blender versions 3.x and later. The shell scripts are also possibly broken i havent checked them in ages
+
 ![Lycoris Dark Theme](./Assets/sc.png)
 
 ## Installation
